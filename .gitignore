@@ -1,0 +1,28 @@
+# Ignoring common Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+lib/
+include/
+bin/
+share/
+
+# Ignoring IDE-related files
+.idea/
+.vscode/
+
+# Ignoring output files
+output.wav
+
+# Ignoring logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Ignoring environment variables file
+.env
+.flaskenv
