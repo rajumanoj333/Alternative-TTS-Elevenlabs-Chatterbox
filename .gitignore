@@ -26,3 +26,6 @@ output.wav
 # Ignoring environment variables file
 .env
 .flaskenv
+
+# Python version management
+.python-version
